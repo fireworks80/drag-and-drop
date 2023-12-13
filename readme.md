@@ -2,9 +2,9 @@
 
 ## 사용법
 
-```
+```js
 new DragDrop({
-	el: document.querySelector('.ball'), // draggable element
-	droppable: '.droppable', // droppable name
+  el: document.querySelector('.ball'), // draggable element
+  droppable: '.droppable', // droppable name
 });
 ```
