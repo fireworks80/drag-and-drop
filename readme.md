@@ -2,7 +2,7 @@
 
 ## 사용법
 
-```js
+```javascript
 new DragDrop({
   el: document.querySelector('.ball'), // draggable element
   droppable: '.droppable', // droppable name
